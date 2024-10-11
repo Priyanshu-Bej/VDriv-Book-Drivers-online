@@ -68,11 +68,10 @@ Navigate through the app with ease using our user-friendly interface. Access boo
 Your suggestions and feedback are crucial to our growth and improvement. Engage with us through the in-app support feature for any feedback, issues, or recommendations.
 
 
-![WhatsApp Image 2024-10-12 at 2 16 50 AM](https://github.com/user-attachments/assets/f7075bb7-06bc-4a36-bf54-20b74cdef4c9)
-![WhatsApp Image 2024-10-12 at 2 16 53 AM](https://github.com/user-attachments/assets/de597905-5a9f-46af-8358-3e202be6ec3e)
-![WhatsApp Image 2024-10-12 at 2 16 52 AM (3)](https://github.com/user-attachments/assets/792e0cb9-925e-4eaf-b3ae-22bd65253b22)
-![WhatsApp Image 2024-10-12 at 2 16 52 AM (2)](https://github.com/user-attachments/assets/bb2fde99-f3d6-4654-aae7-2b944275e6b0)
-![WhatsApp Image 2024-10-12 at 2 16 52 AM (1)](https://github.com/user-attachments/assets/7cfebe14-1348-4062-85f3-67e20a1736e3)
-![WhatsApp Image 2024-10-12 at 2 16 52 AM](https://github.com/user-attachments/assets/cbe88809-bdac-4acc-929a-bd41d1808e63)
-![WhatsApp Image 2024-10-12 at 2 16 51 AM (1)](https://github.com/user-attachments/assets/12097a03-57e0-4394-a2d2-d879c2ee92ea)
-![WhatsApp Image 2024-10-12 at 2 16 51 AM](https://github.com/user-attachments/assets/1a38076b-d7f5-4d5d-8774-92e5a2412cae)
+![WhatsApp Image 2024-10-12 at 2 16 52 AM](https://github.com/user-attachments/assets/36feb441-b580-4441-b064-f5a2c209e646)
+![WhatsApp Image 2024-10-12 at 2 16 52 AM (1)](https://github.com/user-attachments/assets/d39918bb-9ffa-4280-b6f5-d0e0d8030f38)
+![WhatsApp Image 2024-10-12 at 2 16 52 AM (2)](https://github.com/user-attachments/assets/cbff560f-0c55-4803-81b7-cfb4244191b1)
+![WhatsApp Image 2024-10-12 at 2 16 51 AM (1)](https://github.com/user-attachments/assets/80a74a71-1990-4239-bd55-5e29ef6ac53b)
+![WhatsApp Image 2024-10-12 at 2 16 51 AM](https://github.com/user-attachments/assets/817ae26c-0343-4485-bac0-4cf3df1c5dbf)
+![WhatsApp Image 2024-10-12 at 2 16 53 AM](https://github.com/user-attachments/assets/780d0759-0a0a-452f-bf6c-96af0e4536a7)
+![WhatsApp Image 2024-10-12 at 2 16 50 AM](https://github.com/user-attachments/assets/f9b65e6f-cd0a-4bb2-822c-6dae2053ca5b)
